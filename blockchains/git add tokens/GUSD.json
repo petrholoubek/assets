@@ -1,0 +1,10 @@
+{
+  "name": "GuardianUSD",
+  "symbol": "GUSD",
+  "contract": "0x0ed0f0f4E7d13AE2A7072c10692AFfeD421b1B47",
+  "network": "BSC", 
+  "decimals": 18,
+  "description": "Stablecoin GuardianUSD, přidat další informace a odkazy na DEX / liquidity pooly",
+  "website": "",
+  "explorer": ""
+}
